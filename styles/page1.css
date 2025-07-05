@@ -33,7 +33,7 @@ body {
 
 
 p{
-  text-shadow: 2px 2px 2px 5px black;
+  text-shadow: 5px 5px 5px 5px black;
 }
 .fa {
   font-size: 30px;
@@ -164,4 +164,45 @@ button{
 
 .button:active:after {
   box-shadow: 0 0px 0 0 rgb(0 0 0 / 15%);
+}
+
+
+.con{margin-top: 5%;    margin-left: 35%;
+    margin-right: -0%;
+   margin-bottom: 200px;
+    background-color: transparent;
+    
+    border-radius: 5px;
+    color: white;
+    
+    
+    box-shadow: 1px 5px 10px 10px rgb(142, 14, 206);
+    padding: 40px;
+    
+
+}
+
+.post
+{
+border: 5px solid #fdfbfd;
+    border-left: 10px solid transparent;
+   
+
+   border-radius:5%;
+   /* /* margin-left: 10px; */
+   margin-top: 3%; 
+   color: whitesmoke;
+   margin-bottom: 10%;
+
+
+    box-shadow: 0px 0px 10px 0px  #bd66ef;
+
+    text-align: justify;
+    padding: 3%;
+}
+.image{ margin: 40px;
+  margin-left:-1.5%;
+}
+#oi{
+ margin-right: 20%;
 }
