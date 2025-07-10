@@ -1,0 +1,42 @@
+nav li{
+    list-style: none;
+    display: inline;
+    margin: 7%;
+}
+nav li:hover{
+    background-color: aqua;
+    border: 1px black solid;
+    border-radius: 5px;
+box-shadow: 1px 1px 1px 1px greenyellow;
+}
+
+main form .details input{ 
+   
+    /* margin-left: 10%; */
+  
+
+}
+main form .details input, main form .details label{
+
+  display: block;
+  margin-left: 5%;
+}
+
+input[type=submit]{
+    margin-top: 3%;
+    display: inline;
+}
+
+
+fieldset{
+    margin-top: 5%;
+    padding: 5%;
+}
+
+table {
+  border-collapse: collapse;
+}
+tbody td {
+  border: 2px solid black;
+  padding: 7px;
+}
